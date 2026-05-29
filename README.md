@@ -23,3 +23,7 @@ A command-line based Operating System simulator built in C++ that demonstrates t
    ```bash
    g++ -o os_sim main.cpp -lpthread
    ./os_sim
+
+## Usage   
+User Mode: Book tickets, view seat layouts, and inquire about status.
+Kernel Mode (Password: admin123): Manage system processes, execute scheduling algorithms, and view internal system logs.
